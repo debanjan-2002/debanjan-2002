@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Debanjan Poddar</h1>
 <h3 align="center">A passionate programmer who is interested in Problem Solving and Web Development</h3>
 
-- 🌱 I’m currently learning **HTML,CSS and Javascript**
+- 🌱 I’m currently learning **HTML, CSS and Javascript**
 
 - 💬 Ask me about **Problem Solving and Web Development**
 
