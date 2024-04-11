@@ -43,8 +43,8 @@ src="https://img.shields.io/github/followers/debanjan-2002?logo=github&style=for
 
 ### Top Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debanjan-2002&repo=fashion-flair&show_owner=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debanjan-2002&repo=fashion-flair&show_owner=true&theme=tokyonight)](https://github.com/debanjan-2002/fashion-flair)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debanjan-2002&repo=sudoku-solver&show_owner=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debanjan-2002&repo=sudoku-solver&show_owner=true&theme=tokyonight)](https://github.com/debanjan-2002/Sudoku-Solver)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debanjan-2002&repo=notes-app&show_owner=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debanjan-2002&repo=notes-app&show_owner=true&theme=tokyonight)](https://github.com/debanjan-2002/Notes-App)
