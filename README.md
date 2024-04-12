@@ -39,7 +39,7 @@ src="https://img.shields.io/github/followers/debanjan-2002?logo=github&style=for
 
 ### GitHub Stats
 
-[![Debanjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=debanjan-2002&show=prs_merged&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Debanjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=debanjan-2002&show=prs_merged&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Top Repositories
 
